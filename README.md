@@ -27,7 +27,7 @@ npm i
 ```
 3.Filling the Need Config Files 
 
-4.Stating the Bot 
+4.Starting the Bot 
 ```
 node .
 ```
