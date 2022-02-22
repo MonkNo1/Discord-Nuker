@@ -1,0 +1,22 @@
+{
+  "name": "nuke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lohith8776/Auto-role-and-Auto-nickname-djs-13.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lohith8776/Auto-role-and-Auto-nickname-djs-13/issues"
+  },
+  "homepage": "https://github.com/lohith8776/Auto-role-and-Auto-nickname-djs-13#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
