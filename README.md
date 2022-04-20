@@ -10,7 +10,7 @@ sample Config sile
     "clientID": "Bot ID",
     "GuildID": "Guild/Server ID",
     "Channelname" : "Nuke Channel name",
-    "NoChanl" : 20
+    "NoChanl" : 20 //500 is the limit
 }
 The NoChanl : is no channels has to be created or nuked
 ```
